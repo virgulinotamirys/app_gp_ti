@@ -3,11 +3,12 @@
 PROJETO GIRL POWER DA TI
 ----
 Time de GIRLS POWERS:
-Tamirys Virgulino
-Manuela Hermes
-Francieli Zanella
-Luana Porto
+Tamirys Virgulino,
+Manuela Hermes,
+Francieli Zanella,
+Luana Porto,
 Andréa Bujnicki
+
 ----
 Nosso grupo de Girls Powers tem um objetivo comum: o desejo de fazer a diferença. 
 ----
